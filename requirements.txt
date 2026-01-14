@@ -1,3 +1,4 @@
+ffmpeg-python
 pyrogram
 tgcrypto
 pyromod

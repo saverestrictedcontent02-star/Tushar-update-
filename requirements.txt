@@ -12,6 +12,7 @@ async-lru
 cloudscraper
 
 # YouTube / Media
+youtube_dl
 yt-dlp
 pytube
 ffmpeg-python

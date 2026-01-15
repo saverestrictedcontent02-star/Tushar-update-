@@ -1,25 +1,32 @@
-pytube
-python-telegram-bot==20.7
-ffmpeg-python
+# Telegram / Bot
 pyrogram
 tgcrypto
 pyromod
+python-telegram-bot==20.7
 
+# Async / Network
 requests
 aiohttp
 aiofiles
 async-lru
-
-yt-dlp
-mutagen
-m3u8
 cloudscraper
+
+# YouTube / Media
+yt-dlp
+pytube
+ffmpeg-python
+m3u8
+mutagen
+
+# Parsing
 beautifulsoup4
 soupsieve
 
+# Utils
 python-dotenv
 pytz
 speedtest-cli
 
-Flask>=2.2.5
+# Web Server
+Flask>=3.0.0
 gunicorn

@@ -49,8 +49,8 @@ cpimg = "https://graph.org/file/5ed50675df0faf833efef-e102210eb72c1d5a17.jpg"
 zipimg = "https://i.postimg.cc/C5T2SN20/photo-2025-04-02-18-19-12.jpg"
 
 credit = "ROWDY"
-OWNER = int(os.environ.get("OWNER", 7003164707))
-ADMINS = [7003164707]
+OWNER = int(os.environ.get("OWNER", 6334323103))
+ADMINS = [6334323103]
 try:
     for x in (os.environ.get("ADMINS", "7003164707").split()):
         ADMINS.append(int(x))
